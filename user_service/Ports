@@ -1,0 +1,7 @@
+user_service port=9001
+
+contact _ssevice port=9002
+
+eureka serverport=8761
+
+api gateway port=8999
